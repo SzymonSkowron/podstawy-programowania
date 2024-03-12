@@ -4,7 +4,7 @@ public class lab01 {
         int x = sum(2, 2);
         System.out.println(x);
         arrayResults();
-        palindrom("Zupa");
+        //palindrom("Zupa");
     }
 
     // 1. Dodawania, Odejmowania, Mnożenia oraz Dzielenia
